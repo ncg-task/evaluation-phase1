@@ -26,4 +26,4 @@ The submission will have be organized per the following directory structure:
         │   └── ...                                    # if N articles were annotated, this repeats (N-1) more times
         └── ...                                        # if K tasks were selected overall, this repeats (K-1) more times		
 		
-A valid sample submission for the practice phase can be downloaded here https://github.com/ncg-task/evaluation-phase1/blob/master/submission.zip
+A valid sample submission for the practice phase can be downloaded [here](https://github.com/ncg-task/evaluation-phase1/blob/master/submission.zip)
