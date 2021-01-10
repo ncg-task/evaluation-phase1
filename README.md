@@ -1,8 +1,7 @@
-# evaluation-phase1
+# Evaluation Phase 1: End-to-end Pipeline Testing
 
-Evaluation Phase 1: End-to-end Pipeline Testing dataset for the SemEval 2020 Task 11 NLPContributionGraph Shared Task
+#### Input Dataset for the SemEval 2020 Task 11 NLPContributionGraph Shared Task
 
-#### Input
 The dataset is formatted as follows:
 
     [task-name-folder]/                                # constituency_parsing, coreference_resolution, data-to-text_generation, entity_linking, face_alignment, face_detection, hypernym_discovery, natural_language_inference
@@ -26,4 +25,4 @@ The submission will have be organized per the following directory structure:
         │   └── ...                                    # if N articles were annotated, this repeats (N-1) more times
         └── ...                                        # if K tasks were selected overall, this repeats (K-1) more times		
 		
-A valid sample submission for the practice phase can be downloaded [here](https://github.com/ncg-task/evaluation-phase1/blob/master/submission.zip)
+A valid sample submission for this phase can be downloaded [here](https://github.com/ncg-task/evaluation-phase1/blob/master/submission.zip)
